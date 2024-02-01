@@ -7,11 +7,11 @@ environment:
   sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
-  universal_io: ^2.0.4
-  protobuf: ^2.0.1
-  http: ^0.13.4
-  cli_util: ^0.3.5
-  args: ^2.3.0
-  xml: ">=5.3.1 <7.0.0"
-  logging: ^1.0.2
-  multicast_dns: ^0.3.1
+  universal_io: ^2.2.2
+  protobuf: ^3.1.0
+  http: ^1.2.0
+  cli_util: ^0.4.1
+  args: ^2.4.2
+  xml: ^6.5.0
+  logging: ^1.2.0
+  multicast_dns: ^0.3.2+6
